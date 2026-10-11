@@ -18,7 +18,7 @@ A roughly 24-inch-wide, front-half beholder prop for Halloween 2026. Built with 
 
 ## Current state — October 11, 2026
 
-Planning and material identification only. No completed prop, validated coating, CAD model, or working mechanism is recorded yet. The central-eye blank has been selected; its purchase is not yet confirmed.
+A [printable rib prototype with source and cutting templates](cad/ribs-v1/README.md) is available and geometrically checked. No completed prop, physical print test, validated coating, or working eye mechanism is recorded yet. The central-eye blank has been selected; its purchase is not yet confirmed.
 
 This repository is both the working record and the seed of a reproducible “now you can too” guide. Proposals are not tested instructions. Record failures, actual dimensions, receipts, print settings, and useful photos as we build.
 

@@ -47,3 +47,7 @@ For each purchase, count shared order tax/shipping once. Record returns/refunds 
 - [Aleene’s Felt & Foam glue](https://aleenes.com/collections/glue-adhesives/products/aleenes-felt-foam-tacky-glue-4-fl-oz-1).
 
 Test coatings/adhesives on scrap or inside the eye rim. Follow product ventilation and handling instructions. Display weather suitability is not established.
+
+## Rib prototype hardware — not purchased or inventoried
+
+For one [v1 joint](cad/ribs-v1/README.md): 4 M4 × 25 mm bolts, 8 washers, 4 M4 nuts; locknuts if available. Use existing hardware if suitable. Printed hole diameter 4.5 mm. Two 3 mm plates sandwich an 8 mm rib (14 mm before washers/nuts). Filament consumption and duration must be recorded from the slicer/actual print; not yet measured. No budget charge recorded.

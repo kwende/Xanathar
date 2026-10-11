@@ -1,0 +1,47 @@
+{
+  "rib-45deg.stl": {
+    "bounds_mm": [
+      40.712,
+      223.564,
+      8.0
+    ],
+    "volume_cm3": 34.712,
+    "watertight": true,
+    "components": 1,
+    "triangles": 2816
+  },
+  "splice-plate.stl": {
+    "bounds_mm": [
+      24.008,
+      111.28,
+      3.0
+    ],
+    "volume_cm3": 5.984,
+    "watertight": true,
+    "components": 1,
+    "triangles": 1492
+  },
+  "one-rib-kit.stl": {
+    "bounds_mm": [
+      142.36,
+      231.28,
+      8.0
+    ],
+    "volume_cm3": 81.391,
+    "watertight": true,
+    "components": 4,
+    "triangles": 8616
+  },
+  "assembly": {
+    "outer_radius_mm": 292.1,
+    "foam_mm": 12.7,
+    "finished_diameter_mm": 609.6,
+    "rib_arc_degrees": 90,
+    "joint_bolts": 4,
+    "hole_diameter_mm": 4.5,
+    "joint_stack_mm": 14.0,
+    "holes_align": true,
+    "physical_fit_tested": false,
+    "sliced": false
+  }
+}

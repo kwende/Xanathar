@@ -2,7 +2,7 @@
 
 Updated: October 11, 2026. Time zone: America/Chicago.
 
-**Stage:** materials identified; eye selected; no fabrication or finish tests confirmed.  
+**Stage:** materials identified; eye selected; [rib STL prototype and source](cad/ribs-v1/README.md) generated and geometry-checked. No physical fabrication or finish tests confirmed.  
 **Required outcome:** spooky stationary face at twilight.  
 **Optional outcome:** moving central eye.  
 **Deadline:** October 31, 2026.  
@@ -12,7 +12,7 @@ Updated: October 11, 2026. Time zone: America/Chicago.
 
 1. Make the planned Michaels trip; record what was actually purchased and the cost.
 2. Measure the eye blank outside/inside diameter, depth, rim thickness, and mass if possible.
-3. Make one foam-over-form brow sample and a small coating test before committing the sheet or launching a large print batch.
+3. Slice/print one [rib test kit](cad/ribs-v1/README.md) while doing a small foam/coating sample. Check bolt fit and foam support before more printing.
 
 ## Proposed working schedule
 
@@ -46,6 +46,8 @@ These intermediate dates are planning targets, not user-promised appointments. I
 
 ### Build and finish
 
+- [x] Generate rib STL prototype, matching splice plates, editable source, and cutting templates; check mesh geometry.
+- [ ] Physically print and test one rib joint and foam covering.
 - [ ] Full-size face layout.
 - [ ] One printed or improvised brow form with foam covering.
 - [ ] Scrap adhesive test, including intended printed material.

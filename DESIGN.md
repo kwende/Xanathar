@@ -51,3 +51,9 @@ Actual eye dimensions; actuator and power inventory; pan/tilt construction; adhe
 ## Rejected / superseded
 
 Full 36-inch body: more surface and handling work without enough benefit. Full molded silicone skin: excessive process burden for this version. Whole-body liquid latex coverage is not mandatory; test and apply only where useful. Budget and time estimates from early scenarios were planning estimates, not simulations or measured results.
+
+## October 11, 2026 — frame clarified and rib prototype generated
+
+A rear ring with longitudinal curved ribs defines the dome; a separate wooden support carries the eye mechanism. PVC is optional, not a required box. The user is comfortable cutting plywood and prefers unattended printing only when useful.
+
+[Rib prototype v1](cad/ribs-v1/README.md) uses two bolted 45-degree segments for a 90-degree meridian. Outer radius 292.1 mm allows 12.7 mm foam for a nominal 24-inch diameter. Printed ribs are 20 mm radially deep × 8 mm wide. Two 3 mm splice plates and four M4 bolts join them. CAD geometry is checked; physical strength, fit, and foam behavior are untested. Front terminations and rear-ring brackets remain to be designed around eye/mouth placement; ribs do not all need to meet at a pole.

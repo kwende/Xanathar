@@ -55,3 +55,11 @@ Actual purchases and receipts; eye measurements; actuator inventory; one foam-co
 - Failure, surprise, or correction:
 - Decision and why:
 - Next smallest useful action:
+
+## 2026-10-11 — Printable rib prototype and plywood alternative
+
+Clarified frame geometry using a hemisphere: equatorial rear rim, longitudinal ribs toward the viewer, interrupted by eye/mouth openings. User requested printable ribs for an X1C and clarified that cutting plywood is also acceptable.
+
+Created cad/ribs-v1 with two-segment rib geometry, four-bolt sandwich splice, individual STLs and a complete one-rib plate arrangement, full-size SVG cutting templates, editable Python generator, preview, and validation report. Nominal finished diameter is 609.6 mm with 12.7 mm foam. Kit footprint is 142.36 × 231.28 × 8 mm. Exported meshes passed geometric checks; joint hole centers align mathematically.
+
+No slicing, print completion, hardware fit, load testing, or measured print cost/time claimed. Suggested hardware is four M4 × 25 bolts, eight washers, four nuts per joint. Existing hardware inventory unconfirmed. Next: slice one kit, check actual time/filament, test joint and foam covering. Avoid printing a full cage until validated. Source and templates preserve a plywood route.
