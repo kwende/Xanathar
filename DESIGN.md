@@ -1,0 +1,53 @@
+# Design decisions
+
+## Confirmed direction
+
+The user’s objective is a convincing and impressive animatronic at twilight, with low hands-on burden and new spending under $200. A finished stationary prop is a successful fallback.
+
+Build only the front half, roughly 24 inches across. The user will handle rear concealment. Eyestalks remain posed; moving jaw, blink, and animated stalks are out of scope.
+
+Use existing materials first. Overnight 3D printing is valuable when it reduces manual sculpting: printer hours and hands-on hours must be tracked separately.
+
+## Proposed construction — not yet tested
+
+| Element | Proposal |
+|---|---|
+| Structure | Wood eye mounting plate; short PVC supports as useful |
+| Face geometry | Hollow printed brow/socket/cheek/lip forms attached to supports |
+| Covering | Existing half-inch flexible foam; curved panels with seams concealed by features |
+| Thick features | Fold or laminate foam locally, or drape over printed forms |
+| Eye | FloraCraft SmoothFōM 7.8-inch hollow half ball, item 10324963 |
+| Eye mounting | Broad internal printed cradle; avoid depending on screws gripping foam |
+| Motion | Pan/tilt with axes near the center of curvature; mechanism details pending |
+| Finish | Test liquid latex on upholstery foam; fill/smooth rigid eye only as necessary; paint and brush-on gloss |
+| Lighting | External light above and to one side; tune reflections and shadows on actual prop |
+
+The eye product lists 7.8-inch diameter × 3.8-inch depth. Actual inner dimensions, wall thickness, roundness, and mass are unknown. Measure before CAD.
+
+A hemisphere can expose its rim during rotation. The previously discussed 7 × 5-inch eye opening was only a starting sketch: validate aperture size, viewing angles, and motion together. Hide the rim with the fixed socket and restrict travel as needed.
+
+## Visual direction
+
+Heavy asymmetric brow; recessed fixed snarl; uneven ivory teeth; glossy cream/amber eye; muted olive-brown skin. Favor silhouette, large volumes, and shadows over fine scales.
+
+Provisional proportions: 24-inch face, 10–12-inch projection, about 12 × 5-inch mouth. These are not fabrication dimensions. Prototype around the actual eye.
+
+Print broad rounded forms with tapered edges. Allow for foam thickness. One half-inch foam layer offsets exposed geometry by roughly half an inch unless compressed; excessive padding can erase the expression.
+
+## Material distinctions
+
+- The photographed sheet appears to be flexible upholstery foam, but chemistry and density are not verified.
+- SmoothFōM eye is rigid EPS; CraftFōM and soft upholstery foam are different materials.
+- Liquid latex over upholstery foam is not cast foam latex.
+- Mold Builder is a mold-making latex proposed for a small skin test, not a validated full-face finish.
+- Craft acrylics are selected for rigid parts and color trials. Their adhesion/flexibility on our latex system still needs validation.
+- Brush-on gloss belongs on the rigid eye, not across the flexible face.
+- Adhesive choice must match the actual foam and printed material. Cosmetic glue is not a structural suspension connection.
+
+## Open decisions
+
+Actual eye dimensions; actuator and power inventory; pan/tilt construction; adhesive and coating compatibility; display weather exposure; final face layout and mounting. Resolve only the next dependency needed for fabrication.
+
+## Rejected / superseded
+
+Full 36-inch body: more surface and handling work without enough benefit. Full molded silicone skin: excessive process burden for this version. Whole-body liquid latex coverage is not mandatory; test and apply only where useful. Budget and time estimates from early scenarios were planning estimates, not simulations or measured results.
