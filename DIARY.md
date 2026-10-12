@@ -63,3 +63,11 @@ Clarified frame geometry using a hemisphere: equatorial rear rim, longitudinal r
 Created cad/ribs-v1 with two-segment rib geometry, four-bolt sandwich splice, individual STLs and a complete one-rib plate arrangement, full-size SVG cutting templates, editable Python generator, preview, and validation report. Nominal finished diameter is 609.6 mm with 12.7 mm foam. Kit footprint is 142.36 × 231.28 × 8 mm. Exported meshes passed geometric checks; joint hole centers align mathematically.
 
 No slicing, print completion, hardware fit, load testing, or measured print cost/time claimed. Suggested hardware is four M4 × 25 bolts, eight washers, four nuts per joint. Existing hardware inventory unconfirmed. Next: slice one kit, check actual time/filament, test joint and foam covering. Avoid printing a full cage until validated. Source and templates preserve a plywood route.
+
+## 2026-10-11, 10:47 PM CDT — First rib assembly fit passed
+
+Builder reports that the first print finished successfully, the rib comes together nicely, and the sandwich splice braces fit. A second print is underway, not yet complete. This is user-reported physical fit evidence; no redesign requested.
+
+Clarified that these are meridian (longitude) ribs when installed from the rear rim toward the front. The small curved parts are joint splice plates, not latitude rings.
+
+Actual filament/settings, print duration, consumed mass/cost, and installed fastener details are unreported. Load capacity, foam spanning, coatings, and completed-frame stiffness remain untested. Next useful step after the second print: check the foam's support across the two ribs before expanding production.

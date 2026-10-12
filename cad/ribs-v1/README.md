@@ -1,6 +1,6 @@
 # Meridian rib prototype v1
 
-Units: **millimetres**. Geometrically checked, **not physically printed or load-tested**. Supports lightweight foam/cosmetics only; not the eye motor mount or suspension hardware.
+Units: **millimetres**. Geometrically checked. **First print and sandwich-splice fit passed**, per builder report on October 11, 2026; **not load-tested**. Supports lightweight foam/cosmetics only; not the eye motor mount or suspension hardware.
 
 ## Print tonight
 
@@ -8,7 +8,7 @@ Open **one-rib-kit.stl** in Bambu Studio as a single flat arrangement. It contai
 
 Footprint: **142.36 × 231.28 × 8 mm**, before brim. Nominal X1C volume is 256 × 256 × 256 mm ([Bambu specifications](https://public-cdn.bambulab.com/store/X1-Carbon%20tech%20specs.pdf)). Center the arrangement, check the printer profile's exclusion/calibration zones and all startup lines in the slicer. No need to override printer limits. A small brim is optional; verify the complete footprint.
 
-Suggested starting settings, not a tested profile:
+Suggested starting settings; the successful print's actual settings and filament have not yet been reported:
 - Existing PLA for a sheltered, cool display, or PETG using its appropriate preset.
 - Standard 0.4 mm nozzle; 0.20 mm layer height.
 - 4 walls; 5 top/bottom layers; 25% gyroid infill.
@@ -68,3 +68,7 @@ Validation reimports exported STLs and checks watertightness, winding, positive 
 The kit's solid geometry is 81.391 cm³, roughly 101 g if completely solid PLA at an assumed 1.24 g/cm³. Actual sliced mass depends on walls/infill; record that value and print duration instead of treating this as a slicer estimate.
 
 ![Layout and assembly](preview.png)
+
+## Physical test log
+
+October 11, 2026, 10:47 PM CDT: builder reports the first print finished successfully, the rib assembles nicely, and the sandwich braces fit. A second print is underway. No dimensional changes requested. Actual settings, filament, hardware details, print time/mass, foam support, and load performance have not been reported. The generated validation.json describes the original computational validation, not this later physical test.
