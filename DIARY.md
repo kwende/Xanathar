@@ -81,3 +81,13 @@ User identifies existing servos as Deegoo-FPV MG996R 55g metal-gear digital serv
 Builder reports second support set printed, no visible foam sag in a trial with two arches, third set printing, and fourth expected this afternoon. Only two sets are confirmed complete. Builder notes the two-arch trial is limited; actual spacing/orientation and coating weight are untested.
 
 Clarified that four assembled 90-degree ribs (eight 45-degree segments, eight splice plates) are a proposed initial layout, not an established final count. Pause after four and determine mounted spacing and eye/mouth support before committing more material. Additional local support may be preferable to more complete ribs. No load-test or complete-cage validation claimed.
+
+## 2026-10-12, 1:34 PM CDT — Completed motor inventory and Codex handoff
+
+Ben supplied photos identifying Buehler 1.61.031.111.06 gearmotor, EcoPower WP110T servo, Deegoo-FPV MG996R servo, WANPTEK DPS3010U supply and Mega 2560 R3 box. He explicitly confirmed all motors are operational and inventory complete; existing Amazon purchases collected over years. This supersedes earlier unknown basic-operability statements. No new purchase recorded.
+
+Looked up exact Buehler historical seller specifications and EcoPower original announcement/product data; recorded provenance and uncertainty in MOTORS.md. EcoPower and MG996R shortlisted; Buehler backup for repeating crank motion. No speculative replacement purchase. If suitability tests fail, promptly source an appropriate Amazon replacement.
+
+Provided wiring and single-servo sketch in chat, now saved under firmware/servo-bench-test. Proposed initial test: 5 V, 2 A current limit, unloaded servo, signal D9, laptop USB-powered Mega, common supply negative/servo ground/Mega GND. Ben confirmed his understanding of the shared-ground topology at 10:01 AM. No physical wiring completion, compilation/upload, test measurements or motion outcomes reported. Code has not been compiled or hardware-tested here.
+
+Added HANDOFF.md and updated status/materials/design/navigation for continuation with Codex. Existing rib CAD/STLs/templates remain in cad/ribs-v1. Two rib sets still the latest confirmed count; third/fourth completion is not inferred from the afternoon time. Michaels purchases, receipts and eye dimensions remain unconfirmed. Photos were viewed in conversation but have not been committed.

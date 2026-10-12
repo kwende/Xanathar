@@ -19,6 +19,8 @@ Optimize hands-on time, money, workspace occupation, and storage. Unattended pri
 - A deadline checklist is not an active reminder service. Do not claim background monitoring or reminders unless separately configured.
 - Do not import unrelated personal details or unreviewed private conversation history into this public repository.
 
+For the October 12 continuation, also read HANDOFF.md, MOTORS.md, and firmware/servo-bench-test/README.md. Never confuse basic motor operability (confirmed) with project-specific positioning or load-test success (not reported).
+
 ## Fabrication
 
 - Measure the actual eye blank and pipe outside diameter before finalizing mating CAD.

@@ -1,6 +1,6 @@
 # Materials, shopping, and spending
 
-Updated October 11, 2026. **Goal: under $200 total new spending including tax/shipping.** Existing stock has no new cash cost, but record consumed filament/material so a later builder can estimate replacement cost.
+Updated October 12, 2026. **Goal: under $200 total new spending including tax/shipping.** Existing stock has no new cash cost, but record consumed filament/material so a later builder can estimate replacement cost.
 
 ## Already available
 
@@ -10,7 +10,7 @@ Updated October 11, 2026. **Goal: under $200 total new spending including tax/sh
 | PVC pipes | User photo; diameters not measured |
 | Wood/framing stock | User report/photo; choose minimum useful structure |
 | Bambu Lab X1C printer | User reports available; filament inventory pending |
-| Motors, Arduinos/controller boards | User reports available; models and power needs pending |
+| Motors and control electronics | Completed inventory: Buehler 1.61.031.111.06, EcoPower WP110T, Deegoo MG996R, Mega 2560 R3, WANPTEK DPS3010U; see MOTORS.md |
 | Metalworking capability | Available if useful; avoid unnecessary custom metal fabrication |
 
 ## Michaels trip — planned, not purchased
@@ -55,3 +55,7 @@ For one [v1 joint](cad/ribs-v1/README.md): 4 M4 × 25 mm bolts, 8 washers, 4 M4 
 ## 2026-10-12 — Servo and supply inventory confirmed
 
 User identifies existing servos as Deegoo-FPV MG996R 55g metal-gear digital servos, sold in a four-pack, and confirms a DC bench supply is available. A larger slower motor is also available but unidentified. These are inventory reports, not new purchases. Actual servo variant (positional versus continuous rotation), dimensions, horns, voltage rating, and supply current capacity need confirmation/testing. Plan to use two positional servos for pan/tilt if functional; no need to order replacements speculatively. Manufacturer TowerPro MG996R data is reference only, not verified Deegoo performance. Start unloaded at 5 V after checking labels, with appropriate current limit; servo power directly from supply, common ground with controller. No motion or load test has occurred.
+
+## October 12, 1:34 PM CDT — Inventory completed / earlier unknowns resolved
+
+The larger motor is identified as Buehler 1.61.031.111.06. EcoPower WP110T also available with clamping horn. Supply is WANPTEK DPS3010U (0–30 V, 0–10 A manufacturer rating); board identified from Mega 2560 R3 box. Ben confirms all motors are operational. Earlier statements that basic function and supply identity were unknown are superseded; suitability/current/load testing remains pending. Exact Deegoo quantity and matching horns unconfirmed. See [MOTORS.md](MOTORS.md). No new purchases/costs reported.

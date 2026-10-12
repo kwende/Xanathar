@@ -46,7 +46,7 @@ Print broad rounded forms with tapered edges. Allow for foam thickness. One half
 
 ## Open decisions
 
-Actual eye dimensions; actuator and power inventory; pan/tilt construction; adhesive and coating compatibility; display weather exposure; final face layout and mounting. Resolve only the next dependency needed for fabrication.
+Actual eye dimensions; actuator suitability under load; pan/tilt construction; adhesive and coating compatibility; display weather exposure; final face layout and mounting. Resolve only the next dependency needed for fabrication.
 
 ## Rejected / superseded
 
@@ -65,3 +65,9 @@ Existing Deegoo-FPV MG996R servos and a DC bench supply reported. Two positional
 ## October 12 — Initial rib quantity
 
 Use four assembled quarter ribs as a provisional starting layout, not a proven complete frame. Each rib uses two 45-degree segments and two splice plates. Rear mounting and front terminations still need layout around the eye/mouth. Do not join all front tips at a solid pole. Initial foam check with two arches showed no visible sag per builder; actual installed spacing and finished coating load remain to be tested. Decide on extra local supports after mounting rather than automatically printing more full ribs.
+
+## October 12 — Motor shortlist and test plan
+
+Inventory completed; all motors work per Ben. Prefer EcoPower WP110T plus a suitable Deegoo MG996R for separate pan/tilt axes; final choice pending controlled motion and loaded tests. Buehler 1.61.031.111.06 gearmotor remains a repetitive-sweep backup. Mega USB-powered, servo externally powered with common negative/GND. WANPTEK DPS3010U rated 0–30 V / 0–10 A; initial unloaded one-servo test at 5 V / 2 A limit. See MOTORS.md and firmware/servo-bench-test.
+
+Balance gravity torque around pivots while preserving the eye's geometric rotation center and socket clearance. Center of mass and center of curvature need not coincide. Separate structural pivots/cradle support the eye; actual layout is not yet designed. Hold off motor purchases unless tests expose a shortfall. User wants prompt Amazon sourcing if replacement is necessary.

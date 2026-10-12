@@ -9,6 +9,9 @@ A roughly 24-inch-wide, front-half beholder prop for Halloween 2026. Built with 
 
 ## Start here
 
+- [Current Codex handoff](HANDOFF.md)
+- [Motor/electronics inventory](MOTORS.md)
+- [Servo bench test: code and wiring](firmware/servo-bench-test/README.md)
 - [Status, next actions, and deadline checklist](STATUS.md)
 - [Shopping list, owned materials, and spending ledger](MATERIALS.md)
 - [Design decisions and unresolved questions](DESIGN.md)
@@ -16,9 +19,11 @@ A roughly 24-inch-wide, front-half beholder prop for Halloween 2026. Built with 
 - [Build guide in progress](BUILD-GUIDE.md)
 - [Instructions for collaborators and AI agents](AGENTS.md)
 
-## Current state — October 11, 2026
+## Current state — October 12, 2026
 
-A [printable rib prototype with source and cutting templates](cad/ribs-v1/README.md) is available and geometrically checked. The first rib print and sandwich-splice fit were successfully tested by the builder on October 11; a second print is underway. Load/foam tests, coating validation, and eye motion remain pending. The central-eye blank has been selected; its purchase is not yet confirmed.
+A [printable rib prototype with source and cutting templates](cad/ribs-v1/README.md) is available and geometrically checked. Two rib sets are confirmed printed; first assembly/splice fit passed. Initial foam drape over two arches showed no sag. Third was printing and fourth planned; later completion is unconfirmed. Installed frame/foam/coating-load tests remain pending.
+
+Motor inventory is complete and all motors work per builder. EcoPower WP110T and Deegoo MG996R are eye candidates. A Mega 2560 R3 and WANPTEK DPS3010U supply are available. The [single-servo bench test](firmware/servo-bench-test/README.md) is ready for user compilation/upload; suitability and loaded motion results are pending. Eye blank purchase/measurements and finishing tests are still unconfirmed.
 
 This repository is both the working record and the seed of a reproducible “now you can too” guide. Proposals are not tested instructions. Record failures, actual dimensions, receipts, print settings, and useful photos as we build.
 

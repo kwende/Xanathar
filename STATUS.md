@@ -1,8 +1,9 @@
 # Status and deadline checklist
 
-Updated: October 12, 2026. Time zone: America/Chicago.
+Updated: October 12, 2026, 1:34 PM CDT. Time zone: America/Chicago.
 
 **Stage:** materials identified; eye selected; [rib STL prototype and source](cad/ribs-v1/README.md) generated and geometry-checked. Two rib sets printed; first assembly/splice fit passed. Third printing; fourth planned for this afternoon. Initial two-arch foam check shows no sag, but installed spacing, finished coating weight, and frame stiffness remain unvalidated.  
+**Electronics:** inventory complete; all motors operational per builder. EcoPower WP110T and Deegoo MG996R shortlisted; Mega 2560 R3 and WANPTEK DPS3010U identified. [Bench test code/instructions](firmware/servo-bench-test/README.md) supplied; execution/results pending. See [handoff](HANDOFF.md) and [inventory](MOTORS.md).  
 **Required outcome:** spooky stationary face at twilight.  
 **Optional outcome:** moving central eye.  
 **Deadline:** October 31, 2026.  
@@ -10,9 +11,9 @@ Updated: October 12, 2026. Time zone: America/Chicago.
 
 ## Next three actions
 
-1. Make the planned Michaels trip; record what was actually purchased and the cost.
-2. Measure the eye blank outside/inside diameter, depth, rim thickness, and mass if possible.
-3. Complete up to four rib sets, then pause rib production and establish the rear-ring/front-support layout. Test foam at actual spacing. Four is an initial layout, not a validated final count.
+1. Run the unloaded single-servo test on EcoPower, then MG996R; report holding, smoothness, current and CC/OCP behavior. No replacement order unless tests demonstrate a need.
+2. Confirm Michaels purchases/costs and measure the actual eye blank (outside/inside diameter, depth, rim thickness, mass).
+3. Confirm third/fourth rib completion, then pause rib production and establish rear-ring/front-support layout. Test foam at actual spacing. Four is an initial layout, not a validated final count.
 
 ## Proposed working schedule
 
@@ -41,7 +42,10 @@ These intermediate dates are planning targets, not user-promised appointments. I
 - [x] Select 7.8-inch SmoothFōM hollow half ball as eye candidate.
 - [ ] Confirm eye purchase and dimensions.
 - [ ] Measure chosen PVC outside diameter.
-- [ ] Inventory suitable actuators and power supplies.
+- [x] Inventory motors, supply and controller; basic motor operability confirmed by builder.
+- [x] Provide single-servo bench sketch and shared-ground wiring instructions.
+- [ ] Run/report positional servo suitability tests.
+- [ ] Test candidate actuators with actual/mock eye mechanism.
 - [ ] Confirm sheltered display conditions; weather exposure is unresolved.
 
 ### Build and finish
