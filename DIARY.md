@@ -71,3 +71,7 @@ Builder reports that the first print finished successfully, the rib comes togeth
 Clarified that these are meridian (longitude) ribs when installed from the rear rim toward the front. The small curved parts are joint splice plates, not latitude rings.
 
 Actual filament/settings, print duration, consumed mass/cost, and installed fastener details are unreported. Load capacity, foam spanning, coatings, and completed-frame stiffness remain untested. Next useful step after the second print: check the foam's support across the two ribs before expanding production.
+
+## 2026-10-12 — Servo and supply inventory confirmed
+
+User identifies existing servos as Deegoo-FPV MG996R 55g metal-gear digital servos, sold in a four-pack, and confirms a DC bench supply is available. A larger slower motor is also available but unidentified. These are inventory reports, not new purchases. Actual servo variant (positional versus continuous rotation), dimensions, horns, voltage rating, and supply current capacity need confirmation/testing. Plan to use two positional servos for pan/tilt if functional; no need to order replacements speculatively. Manufacturer TowerPro MG996R data is reference only, not verified Deegoo performance. Start unloaded at 5 V after checking labels, with appropriate current limit; servo power directly from supply, common ground with controller. No motion or load test has occurred.

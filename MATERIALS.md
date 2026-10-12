@@ -51,3 +51,7 @@ Test coatings/adhesives on scrap or inside the eye rim. Follow product ventilati
 ## Rib prototype hardware — not purchased or inventoried
 
 For one [v1 joint](cad/ribs-v1/README.md): 4 M4 × 25 mm bolts, 8 washers, 4 M4 nuts; locknuts if available. Use existing hardware if suitable. Printed hole diameter 4.5 mm. Two 3 mm plates sandwich an 8 mm rib (14 mm before washers/nuts). Filament consumption and duration must be recorded from the slicer/actual print; not yet measured. No budget charge recorded.
+
+## 2026-10-12 — Servo and supply inventory confirmed
+
+User identifies existing servos as Deegoo-FPV MG996R 55g metal-gear digital servos, sold in a four-pack, and confirms a DC bench supply is available. A larger slower motor is also available but unidentified. These are inventory reports, not new purchases. Actual servo variant (positional versus continuous rotation), dimensions, horns, voltage rating, and supply current capacity need confirmation/testing. Plan to use two positional servos for pan/tilt if functional; no need to order replacements speculatively. Manufacturer TowerPro MG996R data is reference only, not verified Deegoo performance. Start unloaded at 5 V after checking labels, with appropriate current limit; servo power directly from supply, common ground with controller. No motion or load test has occurred.

@@ -57,3 +57,7 @@ Full 36-inch body: more surface and handling work without enough benefit. Full m
 A rear ring with longitudinal curved ribs defines the dome; a separate wooden support carries the eye mechanism. PVC is optional, not a required box. The user is comfortable cutting plywood and prefers unattended printing only when useful.
 
 [Rib prototype v1](cad/ribs-v1/README.md) uses two bolted 45-degree segments for a 90-degree meridian. Outer radius 292.1 mm allows 12.7 mm foam for a nominal 24-inch diameter. Printed ribs are 20 mm radially deep × 8 mm wide. Two 3 mm splice plates and four M4 bolts join them. CAD geometry is checked. On October 11, the builder confirmed the first print and sandwich-splice fit were successful; physical strength and foam behavior remain untested. Front terminations and rear-ring brackets remain to be designed around eye/mouth placement; ribs do not all need to meet at a pole.
+
+## October 12 — Eye actuation candidate
+
+Existing Deegoo-FPV MG996R servos and a DC bench supply reported. Two positional units are plausible pan/tilt candidates for a balanced lightweight eye; exact variant, function, dimensions, and current requirements remain to be tested. Keep the large unidentified motor out of the design unless needed. Do not equate TowerPro reference specifications with measured performance of these units.
