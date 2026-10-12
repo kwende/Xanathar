@@ -1,8 +1,8 @@
 # Status and deadline checklist
 
-Updated: October 11, 2026. Time zone: America/Chicago.
+Updated: October 12, 2026. Time zone: America/Chicago.
 
-**Stage:** materials identified; eye selected; [rib STL prototype and source](cad/ribs-v1/README.md) generated and geometry-checked. First rib printed successfully and sandwich-splice fit confirmed by the builder; second print underway. Foam/finish and load tests remain unconfirmed.  
+**Stage:** materials identified; eye selected; [rib STL prototype and source](cad/ribs-v1/README.md) generated and geometry-checked. Two rib sets printed; first assembly/splice fit passed. Third printing; fourth planned for this afternoon. Initial two-arch foam check shows no sag, but installed spacing, finished coating weight, and frame stiffness remain unvalidated.  
 **Required outcome:** spooky stationary face at twilight.  
 **Optional outcome:** moving central eye.  
 **Deadline:** October 31, 2026.  
@@ -12,7 +12,7 @@ Updated: October 11, 2026. Time zone: America/Chicago.
 
 1. Make the planned Michaels trip; record what was actually purchased and the cost.
 2. Measure the eye blank outside/inside diameter, depth, rim thickness, and mass if possible.
-3. Finish the second rib print, then check foam spanning/support with the pair before printing more ribs. Record filament, settings, and duration when available.
+3. Complete up to four rib sets, then pause rib production and establish the rear-ring/front-support layout. Test foam at actual spacing. Four is an initial layout, not a validated final count.
 
 ## Proposed working schedule
 
@@ -48,7 +48,10 @@ These intermediate dates are planning targets, not user-promised appointments. I
 
 - [x] Generate rib STL prototype, matching splice plates, editable source, and cutting templates; check mesh geometry.
 - [x] First rib print completed and sandwich-splice fit tested successfully (builder report, Oct 11).
-- [ ] Second rib print completed (underway as of Oct 11, 10:47 PM CDT).
+- [x] Second rib set printed (builder report, Oct 12).
+- [x] Preliminary foam drape across two arches: no visible sag reported; spacing/orientation unrecorded.
+- [ ] Third rib set complete (printing Oct 12 morning).
+- [ ] Fourth rib set complete (planned Oct 12 afternoon).
 - [ ] Test foam covering/support and frame stiffness.
 - [ ] Full-size face layout.
 - [ ] One printed or improvised brow form with foam covering.

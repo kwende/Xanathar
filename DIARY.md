@@ -75,3 +75,9 @@ Actual filament/settings, print duration, consumed mass/cost, and installed fast
 ## 2026-10-12 — Servo and supply inventory confirmed
 
 User identifies existing servos as Deegoo-FPV MG996R 55g metal-gear digital servos, sold in a four-pack, and confirms a DC bench supply is available. A larger slower motor is also available but unidentified. These are inventory reports, not new purchases. Actual servo variant (positional versus continuous rotation), dimensions, horns, voltage rating, and supply current capacity need confirmation/testing. Plan to use two positional servos for pan/tilt if functional; no need to order replacements speculatively. Manufacturer TowerPro MG996R data is reference only, not verified Deegoo performance. Start unloaded at 5 V after checking labels, with appropriate current limit; servo power directly from supply, common ground with controller. No motion or load test has occurred.
+
+## 2026-10-12, 9:17 AM CDT — Two rib sets printed; initial foam check
+
+Builder reports second support set printed, no visible foam sag in a trial with two arches, third set printing, and fourth expected this afternoon. Only two sets are confirmed complete. Builder notes the two-arch trial is limited; actual spacing/orientation and coating weight are untested.
+
+Clarified that four assembled 90-degree ribs (eight 45-degree segments, eight splice plates) are a proposed initial layout, not an established final count. Pause after four and determine mounted spacing and eye/mouth support before committing more material. Additional local support may be preferable to more complete ribs. No load-test or complete-cage validation claimed.

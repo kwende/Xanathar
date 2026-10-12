@@ -61,3 +61,7 @@ A rear ring with longitudinal curved ribs defines the dome; a separate wooden su
 ## October 12 — Eye actuation candidate
 
 Existing Deegoo-FPV MG996R servos and a DC bench supply reported. Two positional units are plausible pan/tilt candidates for a balanced lightweight eye; exact variant, function, dimensions, and current requirements remain to be tested. Keep the large unidentified motor out of the design unless needed. Do not equate TowerPro reference specifications with measured performance of these units.
+
+## October 12 — Initial rib quantity
+
+Use four assembled quarter ribs as a provisional starting layout, not a proven complete frame. Each rib uses two 45-degree segments and two splice plates. Rear mounting and front terminations still need layout around the eye/mouth. Do not join all front tips at a solid pole. Initial foam check with two arches showed no visible sag per builder; actual installed spacing and finished coating load remain to be tested. Decide on extra local supports after mounting rather than automatically printing more full ribs.
